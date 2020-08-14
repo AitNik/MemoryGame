@@ -22,8 +22,8 @@ body{
 .score{
   color: #74b49b;
   text-align: justify;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 #mainHeading{
   text-decoration: underline;
@@ -46,7 +46,7 @@ body{
 #discription{
   color: #74b49b;
   text-align: justify;
-  margin: auto 20%;
+  margin: auto 10%;
 }
 #num{
   display:flex;
