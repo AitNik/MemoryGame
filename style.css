@@ -1,0 +1,58 @@
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+
+  margin: auto;
+
+  border-style: solid;
+  border-width: 10px;
+  border-color: #5c8d89;
+
+  padding: 5px;
+}
+body{
+  background-color: #f4f9f4;
+}
+.headings{
+  text-align: center;
+  font-family: sans-serif;
+}
+.score{
+  color: #74b49b;
+  text-align: justify;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#mainHeading{
+  text-decoration: underline;
+  color: #5c8d89;
+  font-size: 50px;
+}
+#status{
+  font-family: sans-serif;
+  text-align: center;
+  color: #74b49b;
+}
+#winner{
+  margin:auto;
+  color: #d54062;
+}
+#about{
+  color: #5c8d89
+}
+
+#discription{
+  color: #74b49b;
+  text-align: justify;
+  margin: auto 20%;
+}
+#num{
+  display:flex;
+  float:left;
+}
+#step{
+  display:flex;
+  float:right;
+}
